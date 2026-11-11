@@ -2,10 +2,10 @@
 /* ภารกิจ: ตกแต่งให้ครบอย่างน้อย 3 จุดที่มีคำว่า "งาน" */
 
 body {
-  font-family: sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   margin: 24px;
   /* งาน 1: เปลี่ยนสีพื้นหลังและสีตัวอักษรของหน้าเว็บ */
-  background-color: white;
+  background-color: lavender;
   color: black;
 }
 
